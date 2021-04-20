@@ -10,7 +10,7 @@ import FirebaseAuth
 
 import Firebase
 
-
+// Sign UP vC
 class signUpViewController: UIViewController {
     
 
